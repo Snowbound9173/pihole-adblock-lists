@@ -2,7 +2,7 @@
 
 #
 
-<h1 align="center">Pi-hole Adlists</h1>
+<h1 align="center">Pi-hole Adlists by r0xd4n3t</h1>
 
 <p align="center"> 
   <kbd>
